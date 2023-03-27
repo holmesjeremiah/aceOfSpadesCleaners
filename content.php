@@ -320,7 +320,7 @@
     ';
     $footer = '       
         <!-- FOOTER -->
-            <footer id="contactInfo" class="uk-section uk-section-secondary uk-padding-remove-bottom">
+            <footer style="background-color: #214541;" id="contactInfo" class="uk-section uk-section-secondary uk-padding-remove-bottom">
                 <div class="uk-container">
                     <div class="uk-grid uk-grid-large" data-uk-grid>
                     
