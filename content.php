@@ -269,7 +269,7 @@
                 
                 <div class="uk-navbar-center uk-hidden@m">
                     <a href="/" class=" uk-navbar-item uk-logo">
-                        <img style="padding: 10px; display: block; max-width: 230px; max-height:95px; width: auto; height: auto;" src="logoTransparent.png">
+                        <img style="padding: 10px; display: block; max-width: 230px; max-height:95px; width: auto; height: auto;" src="circularLogoSmall.png">
                     </a>
                     <a class="uk-navbar-toggle" style="color: black;" href="#">
                         <span uk-navbar-toggle-icon></span> <span>Menu</span>
