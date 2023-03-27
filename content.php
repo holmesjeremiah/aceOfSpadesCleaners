@@ -11,7 +11,7 @@
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>'.$companyName.'</title>
-            <link rel="icon" type="image/png" sizes="32x32" href="circularLogoSmall.png">
+            <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
             <meta name="description"
                 content="Our residential cleaning service is designed to provide top-notch cleaning solutions for your home, apartment, or any other residential space. We have a team of expert cleaners who are dedicated to making your living space sparkling clean and organized.">
             <meta name="keywords" content="ar, capital, working, funding, financial, capital">
