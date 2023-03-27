@@ -194,11 +194,11 @@
             [
                 'anchor' =>  'aboutUs.php',
                 'subtitle' => 
-                    'Since 2014, '.$companyName.' has helped more than 20,000 businesses worldwide!',
+                    'Our professional cleaning service is dedicated to providing top-notch cleaning solutions!',
                 'content' => 
-                    $companyName.' was established in 2014 with a mission to support pizzeria owners in overcoming the hurdles associated with securing working capital for their businesses. Obtaining suitable funding can be a challenging and resource-draining task, taking away crucial time and attention from the day-to-day operations of the business. That\'s where Pizza Funders of America steps in. Our team of seasoned financial experts has the knowledge and experience necessary to simplify the financing process and make it as clear and straightforward as possible. We understand the specific difficulties faced by businesses in the pizza industry and are dedicated to providing personalized solutions to meet their individual needs. With Pizza Funders of America on your side, you can secure the working capital you need to take your business to the next level and achieve your goals. Don\'t let the pursuit of funding hold you back. Let us help you secure the resources you need to grow and succeed.',
+                'At '.$companyName .', we understand the importance of a clean and comfortable home. Our residential cleaning service is designed to provide top-notch cleaning solutions for your home, apartment, or any other residential space. We have a team of expert cleaners who are dedicated to making your living space sparkling clean and organized. From dusting to vacuuming and everything in between, we cover every aspect of residential cleaning to ensure your complete satisfaction.',
                 'closing' => 
-                    'Call us today and one of our funding specialists will walk you through your options '.$phoneNumber.' or click the apply now button below to get your application started today!',
+                    'Call us today and one of our specialists will walk you through your options '.$phoneNumber.' or click the apply now button below to get your application started today!',
             ]
         ,
         'Contact' =>
@@ -311,7 +311,7 @@
             <img src="AboutUsBackground.jpg" alt="" uk-cover>
             <div style="background-color: white;"
                 class="uk-margin-large uk-width-1-3@l uk-width-3-4@m uk-width-2-3@s uk-text-center uk-padding-large uk-border-rounded uk-overlay uk-position-center-right">
-                <h4>DISCOVER YOUR OPTIONS BY SPEAKING WITH ONE OF OUR EXPERT ACCOUNT REPRESENTATIVES.</h4>
+                <h4>CALL US TODAY AND ONE OF OUR SPECIALISTS WILL WALK YOU THROUGH YOUR OPTIONS!</h4>
                 <h2>
                     <a style="color: var(--main-bg-color) !important" href="tel:+19543631256" uk-icon="icon: receiver">'.$formattedPhoneNumber .';</a>
                 </h2>
