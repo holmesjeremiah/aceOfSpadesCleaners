@@ -11,16 +11,16 @@
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>'.$companyName.'</title>
-            <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
+            <link rel="icon" type="image/png" sizes="32x32" href="circularLogoSmall.png">
             <meta name="description"
-                content="Our competitive rates and online application process make it easy for companies to get the funding they need to grow and succeed.">
+                content="Our residential cleaning service is designed to provide top-notch cleaning solutions for your home, apartment, or any other residential space. We have a team of expert cleaners who are dedicated to making your living space sparkling clean and organized.">
             <meta name="keywords" content="ar, capital, working, funding, financial, capital">
         
             <meta property="og:title" content="'.$companyName.'" />
-            <meta property="og:url" content="https://pizzafundersofamerica.com/" />
+            <meta property="og:url" content="https://aceofspadescleaners.avacan.net/" />
             <meta property="og:description"
-                content="With our competitive rates and easy online application process, '.$companyName.' makes it easy for small and medium-sized businesses to get the working capital they need." />
-            <meta property="og:image" content="logoTransparent.png" />
+                content="Our residential cleaning service is designed to provide top-notch cleaning solutions for your home, apartment, or any other residential space. We have a team of expert cleaners who are dedicated to making your living space sparkling clean and organized." />
+            <meta property="og:image" content="ogLogo.png" />
         
             <!-- UIkit CSS -->
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.15.20/dist/css/uikit.min.css" />
