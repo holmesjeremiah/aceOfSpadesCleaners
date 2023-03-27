@@ -26,7 +26,7 @@
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.15.20/dist/css/uikit.min.css" />
             <style>
                 :root {
-                    --main-bg-color: #C93D3A;
+                    --main-bg-color: #64B6AC;
                     --main-color: white;
                 }
                 html {
