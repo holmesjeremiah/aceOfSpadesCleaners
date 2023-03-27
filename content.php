@@ -292,7 +292,7 @@
                                     <span uk-icon="icon: location" span="color: white !important;">PO Box 243371&nbsp;</span><br>
                                     Anchorage, AK 99524<br><br>
                                 </a>
-                    <a style="color: black !important;" href="tel:+19543631256" uk-icon="icon: receiver">'.$formattedPhoneNumber .';</a><br><br>
+                    <a style="color: black !important;" href="" uk-icon="icon: receiver">'.$formattedPhoneNumber .';</a><br><br>
                                     
                     <a style="color: black !important;" href="https://faxauthority.com/how-to-send-a-fax/" uk-icon="icon: print">+1&nbsp;(855)&nbsp;939-5463&nbsp;</a><br><br>
                     
@@ -338,7 +338,7 @@
                                 <h3>
                                     Contact:
                                 </h3>
-                                <a href="tel:+19543631256"
+                                <a href=""
                                 uk-icon="icon: receiver">'.$formattedPhoneNumber .';</a><br><br>
                                 <a href="mailto:'.$email.'"
                                 uk-icon="icon: mail">'.$email.'&nbsp;</a><br><br>

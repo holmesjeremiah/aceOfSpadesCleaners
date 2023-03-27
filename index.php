@@ -17,8 +17,8 @@
                 
                 <img style="object-fit: contain; max-width: 100%;" class="uk-height-large" src="circularLogo.png" alt="">
                 <div class="uk-padding">
-                    <button onclick="window.location.href='https:\/\/form.jotform.com/213353884457060';" class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Book Now</button>
-                    <button onclick="window.location.href='https:\/\/form.jotform.com/213353884457060';" class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Request a Quote</button>
+                    <button class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Book Now</button>
+                    <button class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Request a Quote</button>
                 </div>
             </div>
         </div>
