@@ -283,14 +283,15 @@
             
             </nav>
 
-            <div id="contactModal" uk-modal>
-                <div class="uk-modal-dialog uk-modal-body" style="color: black;">
+            <div id="contactModal" uk-modal >
+                <div class="uk-modal-dialog uk-modal-body" style="color: black; border-radius: 5%;">
                     <h2 class="uk-modal-title" style="color: black;">Contact</h2>
                     <a style="color: black !important;" href="https://goo.gl/maps/M6Qx6xdEe2wwyc3u5">
-                        '.$companyName .'<br>
-                        <span uk-icon="icon: location">6015 Washington Street, 2nd Floor&nbsp;</span><br>
-                        Hollywood, FL 33023<br><br>
-                    </a>
+
+                                    '.$companyName.'<br>
+                                    <span uk-icon="icon: location" span="color: white !important;">PO Box 243371&nbsp;</span><br>
+                                    Anchorage, AK 99524<br><br>
+                                </a>
                     <a style="color: black !important;" href="tel:+19543631256" uk-icon="icon: receiver">'.$formattedPhoneNumber .';</a><br><br>
                                     
                     <a style="color: black !important;" href="https://faxauthority.com/how-to-send-a-fax/" uk-icon="icon: print">+1&nbsp;(855)&nbsp;939-5463&nbsp;</a><br><br>
