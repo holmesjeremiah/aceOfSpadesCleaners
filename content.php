@@ -58,6 +58,24 @@
                 #contactModal {
                     color: black !important;
                 }
+
+                #bannerTextBackground {
+                    
+                    background-color: #C8E0DD;
+
+                    background-image:  linear-gradient(135deg, #C8E0DD 25%, transparent 25%), linear-gradient(225deg, #C8E0DD 25%, transparent 25%), linear-gradient(45deg, #C8E0DD 25%, transparent 25%), linear-gradient(315deg, #C8E0DD 25%, #e5e5f7 25%);
+                    background-position:  14px 0, 14px 0, 0 0, 0 0;
+                    background-size: 14px 14px;
+                    background-repeat: repeat;
+
+                    border-radius: 10px;
+                    
+                
+
+                }
+
+               
+
                 /* width */
                 ::-webkit-scrollbar {
                 width: 10px;
@@ -79,6 +97,7 @@
                 ::-webkit-scrollbar-thumb:hover {
                 background: #b30000; 
                 }
+
             </style>
         </head>'
     ;
@@ -177,15 +196,11 @@
         
         'Book Now' =>
             [
-                'anchor' =>  'applyNow.php',
+                'anchor' =>  'bookNow.php',
                 'subtitle' =>  'Application Guidelines',
                 'content' => 
-                    'There are three different ways to finish the application procedure (on the web/email/fax)<br><br><br>Online Accommodation Choice 1:<br><br>The quickest and most straightforward is our online entry faciliated by JotForm, the application and the important documentation would all be able to be put together by finishing one procedure. Select the "Get Started" below to initiate this process.
-                    <br><br><button onclick="window.location.href=\'https:\/\/form.jotform.com/213353884457060\';" class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Get Started</button>
-              
-                    <br><br><br><br>Email and Fax Alternative 2:<br><br>We additionally, acknowledge emailed and faxed applications. When submitting by fax or email, kindly submit with your application, bank proclamations throughout the previous a half year (working and non-working records). Select “Download” to obtain a PDF version of the application.
-                    <br><br><button onclick="window.open(\'Application.pdf\')" class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Download</button>
-                ',
+                    ''
+                ,
                 'closing' => 
                     'For help, email us at info@arcapgroup.com or call '.$phoneNumber.'.',
             ]

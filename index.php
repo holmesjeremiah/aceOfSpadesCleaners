@@ -12,13 +12,14 @@
     
     <div class="uk-background-cover uk-cover-container" data-src="bannerBackground.jpg" uk-img="loading: eager" uk-height-viewport>    
         <div >
-            <div class="uk-overlay uk-text-center uk-overlay-default uk-position-center" style="border-radius: 20%;">
+            <div id="bannerTextBackground" class="uk-overlay uk-text-center uk-overlay-default uk-position-center">
 
-                
-                <img style="object-fit: contain; max-width: 100%;" class="uk-height-large" src="circularLogo.png" alt="">
-                <div class="uk-padding">
-                    <button class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Book Now</button>
-                    <button class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Request a Quote</button>
+                <div id="bannerText">
+                    <img style="object-fit: contain; max-width: 100%;" class="uk-height-large" src="circularLogo.png" alt="">
+                    <div class="uk-padding">
+                        <button class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Book Now</button>
+                        <button class="uk-button uk-button-default uk-button-large" style="background-color: var(--main-bg-color); border-radius: 16px; color: white; font-weight: bold;">Request a Quote</button>
+                    </div>
                 </div>
             </div>
         </div>

@@ -4,7 +4,7 @@
 
     echo $header;
     echo $nav;
-    $pageName = 'Apply Now';
+    $pageName = 'Book Now';
 ?>
 
   
