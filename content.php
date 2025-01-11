@@ -95,7 +95,7 @@
 
                 /* Handle on hover */
                 ::-webkit-scrollbar-thumb:hover {
-                background: #b30000; 
+                background:rgb(92, 112, 110); 
                 }
 
             </style>
@@ -139,61 +139,6 @@
             [
                 'anchor' =>  'index.php',
          ],
-        
-    /*
-        'Educational' => 
-            [
-                'anchor' =>  'educational.php',
-                'subtitle' => 
-                    $companyName.' aims to help illuminate the issues that business owners may encounter',
-                'content' => 
-                    'Our company has built a reputation for our dedication to simplifying access to working capital. Our team of advisors take the time to thoroughly understand the financial background of each client, enabling us to collaborate on a strategy for long-term success. This empowers organizations with the ability to focus on profitability. We recognize that financing a small business can be a demanding task, requiring more effort than an entrepreneur can handle independently. Daily operations, inventory, accounting, and marketing are just a few of the many critical aspects of running a successful business. We have carefully curated a range of financial solutions that are regularly updated based on our ongoing research. Let us help you navigate the complexities of financing and focus on growing your business.',
-                'closing' => 
-                    'Call us today and one of our funding specialists will walk you through our options '.$phoneNumber.' or click the apply now button below to get your application started today!',
-            ]
-        ,
-        
-        'Industries' => 
-            [
-                'anchor' =>  'industries.php',
-                'subtitle' =>  'We serve a Variety of Industries Worldwide',
-                'content' => 
-                    'At '.$companyName.', we are excited to work with businesses of all sizes and industries. The specific industry or SIC code of your business is not a barrier to our commitment to providing customized financial solutions. Whether you are a daring pioneer in a developing market or a well-established brand leader with a loyal customer base, we have the expertise and resources to design a financial vehicle that will support your business objectives. Our team of advisors takes the time to thoroughly understand the unique needs of each client, allowing us to create tailored solutions that align with your long-term goals. We believe that every business deserves access to the financial support they need to grow and thrive, and we are dedicated to providing the guidance and expertise necessary to help you succeed. Let us help you navigate the complex world of financing and focus on what matters most: growing your business.',
-                'closing' => 
-                    'Call us today and one of our funding specialists will walk you through your options 954-237-6271 or click the apply now button below to get your application started today!',
-            ]
-        ,
-        
-        'Partner With Us' =>
-            [
-                'anchor' =>  'partnerWithUs.php',
-                'subtitle' => 
-                    'Our associates trust us with their best customers because...',
-                'content' =>  '
-                    We give your customers the financing they need rapidly and effectively – regardless of whether their activities require $10,000 or $2,000,000. We process applications 24 hours every day and can give endorsements in under one day and assets as quick as 48 hours.<br>
-                    
-                        <div class="uk-margin-small-left uk-child-width-expand@m uk-grid uk-text-center uk-padding-large uk-grid" uk-grid="">
-                        '.$partnerWithUsCards.'
-                        </div>
-                   
-                    <br><h4>Advantages of Collaborating With Us</h4>
-                    
-                    <div class="uk-width-1-1 uk-align-center">
-                        <p class="uk-align-center uk-width-1-1@s uk-width-1-2@m">
-                        
-                            Surpass your development objectives by including another flood of pay to your business – with next to zero exertion on your part. Through an association with '.$companyName .' , you can underscore your immediate deals endeavors and lift your organization profit through our referral programs.
-                            <br><br>Your customer connections can go considerably further when you expand your portfolio with financing from '.$companyName .' . Working with us permits you to give additional advantages to your current customers, increment your dependability standards, and welcome even more new customers.
-                    
-                        </p>
-                    </div>
-
-                ',
-                'closing' => 
-                    'Call us today and one of our funding specialists will walk you through your options '.$phoneNumber.' or click the apply now button below to get your application started today!',
-            ]
-        ,
-    */
-        
         'Book Now' =>
             [
                 'anchor' =>  'bookNow.php',
@@ -289,7 +234,7 @@
                     <a class="uk-navbar-toggle" style="color: black;" href="#">
                         <span uk-navbar-toggle-icon></span> <span>Menu</span>
                     </a>
-                    <div class="uk-navbar-dropdown">
+                    <div class="uk-navbar-dropdown" style="border-radius: 15px">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
                             '.implode($dropdownNavbarItems).'
                         </ul>
@@ -387,7 +332,7 @@
                 </div>
                 
                 <div class="uk-text-center uk-padding uk-padding-remove-horizontal">
-                    <a href="https://github.com/AvacanTech">Created by AvacanTech</a>&nbsp;◆&nbsp;<a href="http://getuikit.com" title="Visit UIkit 3 site" target="_blank" data-uk-tooltip><span data-uk-icon="uikit"></span></a></span>
+                    <a href="https://github.com/holmesjeremiah">Created by Avacan Technology Solutions</a>&nbsp;◆&nbsp;<a href="http://getuikit.com" title="Visit UIkit 3 site" target="_blank" data-uk-tooltip><span data-uk-icon="uikit"></span></a></span>
                 </div>
             </footer>
         <!-- /FOOTER -->

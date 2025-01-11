@@ -12,7 +12,7 @@
     
     <div class="uk-background-cover uk-cover-container" data-src="bannerBackground.jpg" uk-img="loading: eager" uk-height-viewport>    
         <div >
-            <div id="bannerTextBackground" class="uk-overlay uk-text-center uk-overlay-default uk-position-center">
+            <div style="border-radius: 20px" class="uk-overlay uk-text-center uk-overlay-default uk-position-center">
 
                 <div id="bannerText">
                     <img style="object-fit: contain; max-width: 100%;" class="uk-height-large" src="circularLogo.png" alt="">
