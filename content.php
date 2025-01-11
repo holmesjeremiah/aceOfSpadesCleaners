@@ -102,20 +102,6 @@
         </head>'
     ;
 
-    $partnerWithUsContent = [
-        [
-            'We care about the financial health of our customers!',
-            0.9,
-        ],
-        [
-            'We understand the financial ecosystem!', 
-            0.8,
-        ],
-        [
-            'We move quick and efficiently!', 
-            0.7,
-        ]
-    ];
     for ($i = 0; $i < 3; $i++) {
         $partnerWithUsCards .='
             <div class="uk-padding-remove-horizontal">
@@ -126,9 +112,6 @@
 
                 </div>
             </div>';
-
-
-    
     }
 
                    
@@ -145,9 +128,6 @@
                 'subtitle' =>  'Application Guidelines',
                 'content' => 
                     ''
-                ,
-                'closing' => 
-                    'For help, email us at info@arcapgroup.com or call '.$phoneNumber.'.',
             ]
         ,
         'About Us' => 
